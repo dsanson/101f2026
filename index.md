@@ -6,9 +6,10 @@ image-alt: "A surrealist oil painting that depicts a human eye framing a cloudy,
 image-title: "Le Faux Miroir, by René Magritte, 1928"
 about:
   id: about-this-course
-  template: trestles
+  template: broadside
 ---
 
+:::{#about-this-course}
 This is the course website for:
 
 PHI 101-002
@@ -19,3 +20,6 @@ I will not be using Canvas. To keep on top of readings and assignments, you need
 check the [schedule](schedule.md), come to class, and pay attention to in-class announcements. If you are worried
 about your grade, you can either [calculate it for yourself](syllabus.html#calculating-your-grade) or come to my office hours and ask me.
 
+:::
+
+Artwork: René Magritte,  "[Le Faux Miroir](https://en.wikipedia.org/wiki/The_False_Mirror)", 1928
