@@ -22,4 +22,6 @@ about your grade, you can either [calculate it for yourself](syllabus.html#calcu
 
 :::
 
-Artwork: René Magritte,  "[Le Faux Miroir](https://en.wikipedia.org/wiki/The_False_Mirror)", 1928
+:::{style="text-align:center; font-size: small"}
+René Magritte,  "[Le Faux Miroir](https://en.wikipedia.org/wiki/The_False_Mirror)", 1928
+:::
