@@ -7,6 +7,10 @@ image-title: "Le Faux Miroir, by René Magritte, 1928"
 about:
   id: about-this-course
   template: broadside
+format:
+  html:
+    format-links:
+      - html
 ---
 
 :::{#about-this-course}
