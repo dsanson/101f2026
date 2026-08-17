@@ -1,5 +1,5 @@
 ---
-title: 'Syllabus: Basic Issues in Philosophy'
+title: 'Syllabus: Basic Issues in Philosophy (PHI 101.002)'
 subtitle: Illinois State, Fall 2026
 type: syllabus
 
