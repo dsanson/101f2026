@@ -70,6 +70,8 @@
   show quote.where(block: true): block.with(sticky: true, spacing: 1em, inset: 1em, stroke: (left:.5pt + gray, rest: none))
   show quote: set text(font: "$sansfont$")
 
+  set document(title: title)
+
   block(width:100%)[
     #if type == "syllabus" {
       block(width:100%)[
