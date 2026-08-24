@@ -28,8 +28,22 @@ website:
 
 bibliography: [references.json]
 citeproc: true
+
 filters:
   - label-bullets.lua
+  - custom-callout
+
+custom-callout:
+  argument:
+    icon-symbol: "🥊"
+    color: "yellow"
+    appearance: "minimal"
+  example:
+    icon-symbol: "💭"
+    color: "purple"
+    appearance: "minimal"
+
+
 
 metadata:
   author:
