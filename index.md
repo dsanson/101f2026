@@ -4,9 +4,12 @@ author: ""
 #image: media/magritte_1928_le_faux_miroir.jpg
 #image-alt: "A surrealist oil painting that depicts a human eye framing a cloudy, blue sky. The clouds take the place normally occupied by the iris."
 #image-title: "Le Faux Miroir, by René Magritte, 1928"
-image: media/joseph-badger-portrait-of-two-children-ca.-1760.jpg
-image-alt: "Oil painting depicting two children in dresses, one holding a squirrel and the other a rattle (?)."
-image-title: "Portrait of Two Children"
+# image: media/joseph-badger-portrait-of-two-children-ca.-1760.jpg
+# image-alt: "Oil painting depicting two children in dresses, one holding a squirrel and the other a rattle (?)."
+# image-title: "Portrait of Two Children"
+image: media/Preyer,_Johann_Wilhelm;_Tropical_fruits_with_shell-shaped_glass_milk_bowl;_1846.jpg
+image-alt: "Oil painting depicting troical fruit on a table"
+image-title: "Tropical fruits with shell-shaped glass milk bowl"
 about:
   id: about-this-course
   template: solana
@@ -32,6 +35,11 @@ about your grade, you can either [calculate it for yourself](syllabus.html#calcu
 <!-- René Magritte,  "[Le Faux Miroir](https://en.wikipedia.org/wiki/The_False_Mirror)", 1928 -->
 <!-- ::: -->
 
+<!-- :::{.attribution style="text-align:center; font-size: small"} -->
+<!-- Joseph Badger,  "[Portrait of Two Children](https://artsandculture.google.com/asset/portrait-of-two-children-joseph-badger/vAEq6CQutgeXAg)", ca. 1760  -->
+<!-- ::: -->
+
 :::{.attribution style="text-align:center; font-size: small"}
-Joseph Badger,  "[Portrait of Two Children](https://artsandculture.google.com/asset/portrait-of-two-children-joseph-badger/vAEq6CQutgeXAg)", ca. 1760 
+Johann Wilhelm Preyer,  "[Tropical fruits with shell-shaped glass milk bowl](https://artsandculture.google.com/asset/tropical-fruits-with-shell-shaped-glass-milk-bowl-0256/SwGvMrum1Go6yQ)", 1846
 :::
+
