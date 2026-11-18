@@ -1,6 +1,8 @@
 project:
   title: "PHI 101-002"
   type: website
+  preview:
+    port: 7803
 
 website:
   title: "PHI 101-002"
